@@ -6,6 +6,7 @@
         <af:document title="test.jspx" id="d1">
             <af:form id="f1">
                 <af:outputText value="Welcome to test page" id="ot1"/>
+                 <af:outputText value="Thank you" id="ot2"/>
             </af:form>
         </af:document>
     </f:view>
